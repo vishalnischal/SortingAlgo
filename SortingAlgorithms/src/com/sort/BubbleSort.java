@@ -1,6 +1,7 @@
 package com.sort;
 
 /*
+ * Bubble Sort
  *  Adjacent elements are compared and swapped
  *  Complexity = O(n^2)
  * 
